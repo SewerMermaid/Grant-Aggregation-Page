@@ -14,3 +14,5 @@ https://github.com/mezod/awesome-indie - indie funds + communities + other stuff
 
 ## Weird:
 https://github.com/nayafia/microgrants?tab=readme-ov-file - weird culture/tech
+
+https://bold.org/scholarships/by-type/weird-scholarships/ - weird scholarships 
